@@ -39,7 +39,7 @@
               class="input input-bordered w-full"
             />
           </div>
-          <button type="submit" class="btn btn-primary">Giriş Yap</button>
+          <button type="submit" class="btn btn-primary">Login</button>
         </form>
       </div>
     </div>
