@@ -203,7 +203,7 @@
 	{/await} -->
 
   <p class="mx-5 mb-5">
-    Welcom {session?.user.email}
+    Welcome {session?.user.email}
   </p>
 
   <div class="md:m-5" id="help">
