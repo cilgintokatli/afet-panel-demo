@@ -45,16 +45,3 @@
     </div>
   </div>
 </div>
-
-<style style="postcss">
-  .modal-box {
-    @apply w-11/12;
-    @apply max-w-5xl;
-  }
-  .table th:last-child {
-    position: sticky;
-    position: -webkit-sticky;
-    right: 0px;
-    z-index: 11;
-  }
-</style>

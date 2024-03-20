@@ -25,6 +25,7 @@ export const actions: Actions = {
     });
 
     if (err) {
+      consolo.log("errör:", err);
       if (err instanceof AuthApiError && err.status === 400) {
         return fail(400, {
           error: "Invalid credentials",
